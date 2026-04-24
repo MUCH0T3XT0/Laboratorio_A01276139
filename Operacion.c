@@ -19,4 +19,15 @@ printf("%i",op2);
 int op3 = multi(num1,num2);
 printf("%i",op3);
 return 0;
+<<<<<<< HEAD
 }
+=======
+}
+
+/*int suma(int a, int b){
+return a+b;
+}
+int resta(int a, int b){
+return a-b;
+}*/
+>>>>>>> A01368016
